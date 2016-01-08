@@ -1,4 +1,4 @@
-package CSV.AddressProcessing;
+package com.bkosarzycki.util.csv;
 
 import com.bkosarzycki.util.csv.CSVReaderWriter;
 import org.junit.Test;

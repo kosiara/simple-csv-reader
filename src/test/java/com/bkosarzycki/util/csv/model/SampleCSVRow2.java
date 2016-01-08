@@ -1,4 +1,4 @@
-package CSV.AddressProcessing.model;
+package com.bkosarzycki.util.csv.model;
 
 /**
  *

@@ -1,9 +1,7 @@
-package CSV.AddressProcessing;
+package com.bkosarzycki.util.csv;
 
-import CSV.AddressProcessing.model.SampleCSVRow;
-import CSV.AddressProcessing.model.SampleCSVRow2;
-import com.bkosarzycki.util.csv.CSVCannotMapColumnsException;
-import com.bkosarzycki.util.csv.CSVObjectMapper;
+import com.bkosarzycki.util.csv.model.SampleCSVRow;
+import com.bkosarzycki.util.csv.model.SampleCSVRow2;
 import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
 
