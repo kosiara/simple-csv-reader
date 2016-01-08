@@ -5,7 +5,7 @@ Simple CSV reader
 - can map csv to ```List<MappedObject>```
 
 
-gradle build system, JUnit tests in src/test/com.bkosarzycki.util.csv
+gradle build system, JUnit tests in ```src/test/java/com.bkosarzycki.util.csv```, sample csv files in ```src/test/resources```
 
 
 #### Usage
